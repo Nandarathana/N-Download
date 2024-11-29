@@ -1,3 +1,3 @@
 # N-Download
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Nandarathana/N-Download)
+[Edit in StackBlitz next generation editor ⚡️](github.com/Nandarathana/N-Download)
